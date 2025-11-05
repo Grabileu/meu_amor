@@ -1,12 +1,16 @@
 @charset "UTF-8";
 
+body {
+    height: 100vh;
+}
+
 header {
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
-    height: 1000px;
-    background-color: blue;
+    height: 600px;
+    background-color: red;
 }
 
 header h1 {
