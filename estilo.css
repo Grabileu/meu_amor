@@ -7,7 +7,7 @@ body {
 header {
     background-position: bottom center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     background-color: red;
 }
