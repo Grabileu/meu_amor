@@ -5,6 +5,7 @@ header {
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
+    height: 650px;
 }
 
 header h1 {
