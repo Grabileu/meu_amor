@@ -9,8 +9,8 @@ header {
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
-    height: 1000px;
-    background-color: blue;
+    height: 800px;
+    background-color: red;
 }
 
 header h1 {
@@ -22,5 +22,5 @@ header p {
 }
 
 main {
-    width: 445px;
+    width: auto;
 }
