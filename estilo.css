@@ -8,8 +8,8 @@ header {
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-attachment: fixed;
-    height: 800px;
+    background-attachment: local;
+    height: 500px;
     background-color: red;
 }
 
